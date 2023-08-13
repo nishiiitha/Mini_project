@@ -47,7 +47,6 @@ OIC=Oh I See
 PITA=Pain In The A..
 PRT=Party
 PRW=Parents Are Watching
-QPSA?	Que Pasa?
 ROFL=Rolling On The Floor Laughing
 ROFLOL=Rolling On The Floor Laughing Out Loud
 ROTFLMAO=Rolling On The Floor Laughing My A.. Off
